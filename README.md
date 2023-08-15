@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhishek.kumar.270902@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C33JUYyKGDRtXEFSkTvd0Ppa1CRZYlnE/view?usp=drivesdk](https://drive.google.com/file/d/1C33JUYyKGDRtXEFSkTvd0Ppa1CRZYlnE/view?usp=drivesdk)
+- 📄 Here is my resume [https://drive.google.com/file/d/1C33JUYyKGDRtXEFSkTvd0Ppa1CRZYlnE/view?usp=drivesdk](https://drive.google.com/file/d/1C33JUYyKGDRtXEFSkTvd0Ppa1CRZYlnE/view?usp=drivesdk)
 
 - ⚡ Fun fact **One line that describes me best? An ambitious boy who loves to listen to music, daydream at night, and sometimes code too.**
 
