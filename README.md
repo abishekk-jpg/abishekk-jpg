@@ -8,7 +8,7 @@ in C++, Java, MERN, Javascript, and its frameworks. ⚡ I am involved in a lot o
 to clubs, fests, and workshops and helped in building many communities from scratch.
 
 ⚡ One line that describes me best?
-An ambitious boy who loves to listen to music, daydream at night, and sometimes code too.😉😉
+An ambitious boy who loves to listen to music, daydream at night, and sometimes code too.
 
 - 📫 How to reach me 
  -   Twitter-https://twitter.com/home
