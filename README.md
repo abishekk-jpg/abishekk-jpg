@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">Aspiring Software Engineer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/theseachaserxd" target="blank"><img src="https://img.shields.io/twitter/follow/theseachaserxd?logo=twitter&style=for-the-badge" alt="theseachaserxd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/horrkuchh" target="blank"><img src="https://img.shields.io/twitter/follow/theseachaserxd?logo=twitter&style=for-the-badge" alt="theseachaserxd" /></a> </p>
 
 - 🔭 I’m currently working on **React.js**
 
