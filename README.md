@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">Budding Software developer</h3>
 
-<p align="left"> <a href="https://twitter.com/horrkuchh" target="blank"><img src="https://img.shields.io/twitter/follow/horrkuchh?logo=twitter&style=for-the-badge" alt="horrkuchh" /></a> </p>
+<p align="left"> <a href="https://x.com/50shadesofabhii" target="blank"><img src="https://img.shields.io/twitter/follow/horrkuchh?logo=twitter&style=for-the-badge" alt="horrkuchh" /></a> </p>
 
 - 🔭 I’m currently working on **React.js**
 
