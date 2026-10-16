@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **You can ask me anything (within reason). I am looking forward to absorbing knowledge🧠, gain experience 🏭, collaborating 🤝 and building amazing products 🏭for the world🌍!**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React.js and Problem Solving**
+- 💬 Ask me about **Java, Spring Boot, Spring JPA, Microservices and Problem Solving**
 
 - 📫 How to reach me **abhishek.kumar.270902@gmail.com**
 
